@@ -1,0 +1,7 @@
+# Fichiers de configuration sensibles ou environnement
+config.php
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
